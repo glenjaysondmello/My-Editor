@@ -1,8 +1,23 @@
-# React + Vite
+# TipTap Editor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A rich text editor built with **React** and **TipTap**, utilizing **Vite** for a fast development environment and deployment to **GitHub Pages**.
 
-Currently, two official plugins are available:
+## Features
+- **Rich Text Formatting**: Bold, italic, underline, and strikethrough text.
+- **Text Alignment**: Left, center, and right text alignment.
+- **Undo/Redo** functionality.
+- **Clear Content**: A button to clear all content in the editor.
+- **Responsive**: Fully responsive with TailwindCSS, using `sm:` and `md:` classes.
+- **Placeholder Text**: Displays a placeholder in the editor when it is empty.
+  
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Prerequisites
+Make sure you have the following installed:
+- Node.js (>=14.x)
+- npm (>=6.x) or Yarn
+
+### Clone the Repository
+```bash
+git clone https://github.com/<your-username>/My-Editor.git
+cd My-Editor
