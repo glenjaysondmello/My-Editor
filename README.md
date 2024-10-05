@@ -7,7 +7,6 @@ A rich text editor built with **React** and **TipTap**, utilizing **Vite** for a
 - **Text Alignment**: Left, center, and right text alignment.
 - **Undo/Redo** functionality.
 - **Clear Content**: A button to clear all content in the editor.
-- **Responsive**: Fully responsive with TailwindCSS, using `sm:` and `md:` classes.
 - **Placeholder Text**: Displays a placeholder in the editor when it is empty.
   
 ## Installation
